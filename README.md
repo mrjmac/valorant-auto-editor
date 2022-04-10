@@ -21,3 +21,7 @@ This program is pretty CPU intensive as it uses a ML model to identify which kil
 All necessary libraries are listed at the top imports.
 
 Use -h to learn more about arguments
+
+# Example of ending video
+https://user-images.githubusercontent.com/40571030/162643614-1b6b5125-5b90-48f1-9d9f-18a049e3f5a9.mp4
+
