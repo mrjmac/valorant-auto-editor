@@ -1,8 +1,6 @@
 # Valorant-auto-editor
 Automatically takes in a valorant video or clip and edits it down to just a kills that were by the person recording.
 
-This isn't being actively worked on, but if I do change something it's most like the ML model.
-
 Here's how it works:
 
 1. Loads the video into opencv
