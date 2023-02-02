@@ -14,8 +14,6 @@ It uses python3 and was tested on ubuntu.
 
 I've tested it on a 40 minute video and it took about 15 mins to run, however the longer the video the longer it will take to run.
 
-This program is pretty CPU intensive as it uses a ML model to identify which kills are frames.
-
 All necessary libraries are listed at the top imports.
 
 Use -h to learn more about arguments
