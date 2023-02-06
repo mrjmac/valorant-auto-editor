@@ -15,6 +15,8 @@ I've tested it on a 40 minute video and it took about 15 mins to run, however th
 
 All necessary libraries are listed at the top imports.
 
+It uses python.
+
 Use -h to learn more about arguments
 
 # Example of ending video
