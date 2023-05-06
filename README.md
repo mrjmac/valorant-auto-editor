@@ -1,4 +1,4 @@
-# Valorant-auto-editor
+# valorant-auto-editor
 Automatically takes in a valorant video or clip and edits it down to just a kills that were by the person recording.
 
 Here's how it works:
