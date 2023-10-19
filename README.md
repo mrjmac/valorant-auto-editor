@@ -1,4 +1,7 @@
 # valorant-auto-editor
+
+**NOTE**: The data my model was trained on is back from 04/10/2022, any poor results are most likely a result of graphical changes.
+
 Automatically takes in a valorant video or clip and edits it down to just a kills that were by the person recording.
 
 Here's how it works:
