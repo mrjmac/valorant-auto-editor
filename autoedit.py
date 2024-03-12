@@ -88,12 +88,7 @@ while w < len(kills) :
         kills.insert(w, min + (MIN*round(fps)))
         min = kills[w + 1]
         w += 2
-
-
-'''
-clip1 = video.subclip(round(kills[0] / fps) - 2, round(kills[0] / fps) + 1)
-kills.pop()
-
+        
 # make video
 #print(kills)
 if round(kills[0] / fps) - TB <= 0 :
