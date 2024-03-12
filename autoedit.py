@@ -92,14 +92,8 @@ while w < len(kills) :
 
 '''
 clip1 = video.subclip(round(kills[0] / fps) - 2, round(kills[0] / fps) + 1)
-kills.pop(0)
+kills.pop()
 
-for p in kills :
-    newclip = video.subclip(round(p / fps) - 2, round(p / fps) + 1)
-    clip1 = concatenate_videoclips([clip1, newclip])
-
-clip1.write_videofile("ayo.mp4")
-'''
 # make video
 #print(kills)
 if round(kills[0] / fps) - TB <= 0 :
